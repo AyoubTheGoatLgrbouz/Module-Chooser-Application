@@ -1,0 +1,20 @@
+Student Overview
+===================
+
+Student Details
+===================
+Student Name: Name:[firstName=Sofia, familyName=Vera]
+Student Email: sofia@gmai.com
+Student PNumber: P232266
+Course: Software Engineering
+
+Selected Modules
+===================
+ - Mobile App Development and Big Data (Credits: 30)
+ - Development Project (Credits: 30)
+ - Embedded Systems and IoT (Credits: 30)
+ - Software Development: Methods & Standards (Credits: 30)
+
+Reserved Modules
+===================
+ - Functional Programming (Credits: 30)
