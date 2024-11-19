@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\Project\Module-Chooser-Application\.metadata\.plugins\org.eclipse.jdt.core
+3074878003.index
+4257909400.index
+1865797976.index
